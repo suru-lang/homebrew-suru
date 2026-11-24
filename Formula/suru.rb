@@ -2,8 +2,8 @@
 class Suru < Formula
   desc "日本語の関数型プログラミング言語「する」(インタプリタ・型検査・コンパイラ・言語サーバー)"
   homepage "https://github.com/suru-lang/suru"
-  url "https://github.com/suru-lang/suru/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "f508821dd0cdae522774d12b16a5e5948dd5ce9f63a1e7288520218ccff3ae22"
+  url "https://github.com/suru-lang/suru/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "8ccbd68da0f17970fdcec6cb8f0370fc686700fb3190b97ca130df0eeab1c328"
   license all_of: ["GPL-3.0-or-later", "MIT"]
   head "https://github.com/suru-lang/suru.git", branch: "main"
 
